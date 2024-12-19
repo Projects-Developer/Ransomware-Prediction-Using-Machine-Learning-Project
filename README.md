@@ -40,10 +40,6 @@ Keywords: Ransomware, Machine Learning, Prediction, Detection, Cybersecurity, Ma
 
 ### Website : https://www.finalproject.in/
 
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-Mail/Message me for Projects Help 🙏🏻
-
 ### Contact me for any kind of help on projects.
 ### 1000 Computer Science Projects : https://www.computer-science-project.in/
 
