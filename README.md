@@ -1,4 +1,4 @@
-# Ransomware-Prediction-Using-Machine-Learning-Project
+# Ransomware Prediction Using Machine Learning Project
 
 Ransomware Prediction Using Machine Learning Project
 
